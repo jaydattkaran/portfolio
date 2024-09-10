@@ -8,7 +8,7 @@ import { FaEnvelope, FaGithub, FaLink, FaLinkedinIn } from "react-icons/fa";
 const Footer: React.FC = () => {
   return (
     <footer className="bg-slate-950 text-white p-4 w-full ">
-      <div className="flex flex-col lg:flex-row items-center justify-between max-w-2xl mx-auto">
+      <div className="flex flex-col gap-2 lg:flex-row items-center justify-between max-w-2xl mx-auto">
         <div className="flex items-center">
           <span className="font-bold text-lg tracking-wider text-purple-500">
             Jaydatt Karan
@@ -49,17 +49,14 @@ const Footer: React.FC = () => {
           </Link>
         </div>
 
-		<a href="mailto:karanjaydatt03@gmail.com">
-		<Link
-            href="https://bento.me/jaydatt"
-            target="_blank"
-            passHref
-          >
+        <a href="mailto:karanjaydatt03@gmail.com">
+          <Link href="https://bento.me/jaydatt" target="_blank" passHref>
             <p rel="noopener noreferrer" className="flex gap-1 items-center">
-			Socials<FaLink/> 
+              Socials
+              <FaLink />
             </p>
           </Link>
-          </a>
+        </a>
       </div>
     </footer>
   );
