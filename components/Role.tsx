@@ -14,17 +14,11 @@ const POW = () => {
 				</h2>
 				<div>
                     <p className="text-white mt-2 font-bold lg:text-3xl text-xl opacity-70">A brief intro, who am i?</p>
-                    <p className="mt-6 lg:w-[60%] w-[100%]  text-white lg:text-2xl text-normal font-semibold lg:leading-9 lg:tracking-wide">I am an independent Web developer and UI/UX designer based in india.
-                        <br />
-                        I specialize in crafting elevated, intuitive, and minimalistic designs
-                        small businesses to help them stand out in the digital landscape with a powerfull
-                        impact.😎
-                        <br />
+                    <p className="mt-6 lg:w-[60%] w-[100%]  text-white lg:text-2xl text-normal font-semibold lg:leading-9 lg:tracking-wide">I specialize in creating refined, intuitive, and minimalist designs tailored to empower small businesses in the digital space, driving impactful and lasting impressions. My approach to development is holistic, consistently honing my expertise in Web Development and Web3 technologies to deliver innovative, future-focused solutions.
                         I bring a comprehensive approach to development, focused on advancing
-                        my skills in Web Development and Web3 technologies.
+                        my skills in Web Development and Web3 technologies.😎
                         <br /> <br />
-                        When I am not developing or designing, I enjoy going to Gym to focus on
-                        fitness while keeping up with the latest technologies. <a href="#">Instagram 📸</a>
+                        Outside of development and design, I maintain a strong focus on fitness and well-being through regular gym sessions, balancing personal health with my passion for staying engaged with the latest technological trends and industry innovations. <a href="#">Instagram 📸</a>
                     </p>
                 </div>
 			</div>
