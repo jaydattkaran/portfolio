@@ -14,7 +14,7 @@ const POW = () => {
 				</h2>
 				<div>
                     <p className="text-white mt-2 font-bold lg:text-3xl text-xl opacity-70">A brief intro, who am i?</p>
-                    <p className="mt-6 lg:w-[60%] w-[100%]  text-white lg:text-2xl text-normal font-semibold lg:leading-9 lg:tracking-wide">I specialize in creating refined, intuitive, and minimalist designs tailored to empower small businesses in the digital space, driving impactful and lasting impressions. My approach to development is holistic, consistently honing my expertise in Web Development and Web3 technologies to deliver innovative, future-focused solutions.
+                    <p className="mt-6 lg:w-[60%] w-[100%]  text-white lg:text-2xl text-normal lg:leading-9 lg:tracking-wide">I specialize in creating refined, intuitive, and minimalist designs tailored to empower small businesses in the digital space, driving impactful and lasting impressions. My approach to development is holistic, consistently honing my expertise in Web Development and Web3 technologies to deliver innovative, future-focused solutions.
                         I bring a comprehensive approach to development, focused on advancing
                         my skills in Web Development and Web3 technologies.😎
                         <br /> <br />
